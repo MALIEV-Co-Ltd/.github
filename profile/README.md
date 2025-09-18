@@ -1,6 +1,6 @@
 # Welcome to MALIEV Co., Ltd. on GitHub!
 
-![MALIEV Logo](https://www.maliev.com/images/logo.png)
+![MALIEV Logo](https://storage.googleapis.com/maliev.com/web-contents/images/logo-black-20px.png)
 
 **MALIEV Co., Ltd.**, founded in 2018, is a premier manufacturing service provider based in Thailand, dedicated to bringing your ideas to life. We specialize in high-quality, custom-made parts through a variety of advanced manufacturing processes. Whether you are an innovator, an engineer, or a student, we are here to support your creative journey from concept to creation.
 
