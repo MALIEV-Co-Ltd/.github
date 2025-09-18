@@ -24,7 +24,7 @@ We are adaptable and proficient with a wide range of software technologies to be
 
 ## Our Open Source Philosophy
 
-Currently, we use GitHub primarily for hosting our private repositories and leveraging its powerful integrations to streamline our development process. While we do not have any open-source projects at the moment, we are always open to the possibility of contributing to the open-source community in the future.
+Currently, we use GitHub primarily for hosting our repositories and leveraging its powerful integrations to streamline our development process. While we do not have any fully open-source projects at the moment, we are always open to the possibility of contributing to the open-source community in the future.
 
 ## Our Process
 
