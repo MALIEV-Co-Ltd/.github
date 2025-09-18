@@ -51,7 +51,6 @@ We are always here to help. If you have any questions or would like to discuss y
 *   **Website:** [www.maliev.com](https://www.maliev.com)
 *   **Online Shop:** [shop.maliev.com](https://shop.maliev.com)
 *   **Email:** [info@maliev.com](mailto:info@maliev.com)
-*   **Phone:** +66(0)81-803-0404, +66(0)89-895-0690
 *   **LINE@:** @maliev
 
 ## Follow Us
